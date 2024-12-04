@@ -5,6 +5,9 @@ The Court Calendar Management System is a backend API built with **Spring Boot**
 
 ---
 
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
+
 ## ✨ Features  
 
 ### 1. **User Management**  
