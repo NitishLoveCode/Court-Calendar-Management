@@ -77,9 +77,3 @@ The Court Calendar Management System is a backend API built with **Spring Boot**
    cd court-calendar-management  
 
 
-
-### Customization  
-- Replace `https://github.com/NitishLoveCode` and `[yourprofile](https://www.linkedin.com/in/nitishlovecode/)` with your actual GitHub and LinkedIn usernames.  
-- Add any additional features you implement later.  
-
-Would you like more help setting up the project structure or creating specific endpoints? 😊
