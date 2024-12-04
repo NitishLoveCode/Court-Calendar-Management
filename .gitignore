@@ -1,3 +1,7 @@
+# Ignore application.properties and other configuration files
+src/main/resources/application.properties
+src/main/resources/application.yml
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
